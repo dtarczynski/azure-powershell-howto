@@ -1,1 +1,3 @@
-# azure-powershell-howto
+# Handy commands
+
+> Login-AzAccount
